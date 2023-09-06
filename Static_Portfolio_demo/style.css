@@ -184,9 +184,8 @@ h2 {
 a {
     display: inline-block;
     margin-inline-end: 30px;
-    border: 2px solid rgb(49, 187, 206);
     text-decoration: none;
-    color: rgb(49, 187, 206);
+    color: white;
 }
 
 
